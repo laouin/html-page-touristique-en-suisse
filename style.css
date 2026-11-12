@@ -45,11 +45,13 @@ footer nav  {
 footer nav a {
     color: #C69B62;
 }
-main nav
+main nav {
+    margin-left: 380px;
+}
 main nav h2 {
-    margin-left: 350px;
+    
     margin-top: 70px;
 }
 main nav p {
-    margin-left: 350px;
+    
 }
